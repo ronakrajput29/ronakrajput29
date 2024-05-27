@@ -30,30 +30,3 @@
   <p align="left">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
   </p>
-    
-  ### 📊 GitHub Stats:
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=RonakRajput&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api?username=RonakRajput&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonakRajput&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-  <p align="left">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-  </p>
-    
-  
-  
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-  <p align="left">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-       <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-  </p>
-    
-  <h4> 📬 Reach me out </h4>
-  <p align="left">
-  <a href = "https://www.linkedin.com/in/ronak-rajput/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/rajput_ronak29"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href = "https://www.instagram.com/ronak_rajput29_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <!-- <a href = "https://leetcode.com/sakshigoyat14/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a> -->
-  </p>
-  
